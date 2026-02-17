@@ -1,0 +1,19 @@
+{
+  "frontend/src/index.css": "Enhanced design system with vibrant OKLCH colors, improved glassmorphism effects with stronger blur and saturation, and mobile touch optimizations",
+  "frontend/tailwind.config.js": "Extended Tailwind configuration with responsive container padding, enhanced glow shadows, and mobile-first utilities",
+  "frontend/src/App.tsx": "Main application component with authentication state, profile setup modal, dashboard toggle, mobile navigation, and PWA install guide integration",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for all backend operations including user profiles, company profiles, job listings, applications, and payment transactions",
+  "frontend/src/components/Header.tsx": "Responsive header with mobile hamburger menu, desktop navigation, theme toggle, install guide trigger, and authentication controls",
+  "frontend/src/components/Footer.tsx": "Compact footer with responsive text sizing and branding attribution",
+  "frontend/src/components/Hero.tsx": "Mobile-optimized hero section with responsive text sizing, gradient backgrounds, and feature cards showcasing platform benefits",
+  "frontend/src/components/JobListings.tsx": "Mobile-friendly job listings grid with touch-optimized cards, responsive search/filter controls, and improved spacing",
+  "frontend/src/components/JobDetailsModal.tsx": "Modal dialog showing full job details including description, responsibilities, requirements, and apply functionality",
+  "frontend/src/components/ProfileSetupModal.tsx": "Modal form for first-time users to create their profile with name, email, skills, and experience",
+  "frontend/src/components/Dashboard.tsx": "Responsive dashboard with mobile-optimized tabs for profile, company, and payment management sections",
+  "frontend/src/components/UserDashboard.tsx": "User dashboard showing job applications with status tracking and job details",
+  "frontend/src/components/CompanyDashboard.tsx": "Company dashboard for creating/editing company profile, posting jobs, and managing job listings with applicant counts",
+  "frontend/src/components/JobPostModal.tsx": "Modal form for companies to post new jobs with all required fields including title, category, location, compensation, and requirements",
+  "frontend/src/components/PaymentDashboard.tsx": "Payment dashboard displaying earnings statistics, transaction history, and form to process new cryptocurrency payments",
+  "frontend/src/components/MobileNav.tsx": "Fixed bottom navigation bar for mobile devices with home, dashboard, install, and user profile quick access buttons",
+  "frontend/src/components/InstallGuide.tsx": "Comprehensive PWA installation guide modal with step-by-step instructions for iOS Safari and Android Chrome browsers"
+}
